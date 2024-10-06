@@ -1,4 +1,4 @@
-# 3. Gant Diagram+Plan
+# 3. Overall Plan
 
 ### 1. **Stretch와 Heat Loss 코딩 (Coding stretch & heat loss in Cantera Python)**
 
