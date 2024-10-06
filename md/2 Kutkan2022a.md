@@ -4,15 +4,15 @@
 
 ---
 
-![an01.png](./img/an01.png)
+![an01.png](../img/an01.png)
 
-![an02.png](./img/an02.png)
+![an02.png](../img/an02.png)
 
-![an03.png](./img/an03.png)
+![an03.png](../img/an03.png)
 
-![an04.png](./img/an04.png)
+![an04.png](../img/an04.png)
 
-![an05.png](./img/an05.png)
+![an05.png](../img/an05.png)
 
 ### Questions
 
