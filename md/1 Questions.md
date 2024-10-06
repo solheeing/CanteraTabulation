@@ -10,6 +10,8 @@ How can I use refine_grid exactly?
 What is the main reason that it didn’t work?
 > 
 
+⇒ it works. just an error.
+
 ```python
 plt.figure()
 plt.plot(premixed_flame.grid, premixed_flame.T)
@@ -24,6 +26,8 @@ So what are the criteria that the grid sets automatically? Does it depend on the
 And shouldn’t I set the grid manually?
 > 
 
+⇒ it is a function that is included already. I don’t have to define it.
+
 ```python
 #Soret effect (only with multi component transport model)
 flame.soret_enabled = False
@@ -32,6 +36,8 @@ flame.soret_enabled = False
 > I understood all parameters in the Tutorial_LaminarFlame file except for this code.
 I searched soret and got what is the soret effect, but I couldn’t understand the multi-component transport model in the premier.
 > 
+
+⇒ we can change flame_transport_model as a multi-component transport mode. In that situation, the parameter can set as True.
 
 ```python
 plt.figure()
@@ -43,5 +49,7 @@ plt.show()
 ```
 
 > I tried to make a plot of Pressure, and it didn’t work.
-The reason why premixed_flame.P doesn't work in the last plt code is because I didn't define premixed_flame.P, and this should be defined as originally premixed_flame.inlet.P, but is this not defined in the function, so should I say it's an error?
->
+The reason why premixed_flame.P doesn't work in the last plt code is that I didn't define premixed_flame.P, and this should be defined as originally premixed_flame.inlet.P, but is this not defined in the function, so should I say it's an error?
+> 
+
+⇒ constant Pressure so we can’t plot ylabel as pressure. No meaning.
