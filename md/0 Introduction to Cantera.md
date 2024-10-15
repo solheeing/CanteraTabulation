@@ -15,7 +15,7 @@ conda active ct-env
 2. Environments-check libraries we will use(**keras**, **pandas**, **matplotlib** etc.)
 3. install **plotly**
 
-![anaconda.png](./img/anaconda.png)
+![anaconda.png](../img/anaconda.png)
 
 ## ⚡️ Basic equations using in Cantera
 

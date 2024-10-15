@@ -22,7 +22,7 @@ CH4+2O2 → CO2+2H2O
 
 [https://www.youtube.com/watch?v=_gqO3ncLfRg](https://www.youtube.com/watch?v=_gqO3ncLfRg)
 
-![Premixed flames](./img/premixedFlame.png)
+![Premixed flames](../img/premixedFlame.png)
 
 Premixed flames
 
@@ -37,7 +37,7 @@ Premixed flames
 2. Consumption speed(SC)
 3. Turbulent speed(ST)
 
-![image.png](./img/flameTypes.png)
+![image.png](../img/flameTypes.png)
 
 <aside>
 💡
