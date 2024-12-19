@@ -13,14 +13,15 @@ Specifically, we use a counterflow premixed flame and vary the strain rate and h
 
 ## 💡 Preview
 
-### counterflow flame configuration
-<img src="img/counterflowFlame.png" alt="counterflowFlame" width="500">
+### laminar premixed flame graph
+![laminar](img/laminar.png)
 
-### Graph patterns that change according to the CH4-H2 mixing ratio
-![mixture](img/H-CH4-mixture.png)
+### counterflow premixed flame configuration
+![counterflow](img/counterflow.png)
 
 ### Final project outcome reflecting heat loss and strain rate
 ![graph](img/CFPF-b.png)
+*from Garcia2022b.*
 
 ## 🎯 Getting Started
 ### Requirements
